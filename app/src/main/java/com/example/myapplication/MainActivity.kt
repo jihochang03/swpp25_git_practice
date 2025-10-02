@@ -11,7 +11,6 @@ import android.widget.TextView
     import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
-    // Git practice app for learning version control
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
